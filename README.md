@@ -85,6 +85,19 @@ Atualmente, estou focado em aprimorar minhas habilidades e aplicar meu conhecime
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Vectorgg15">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vectorgg15&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Vectorgg15">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vectorgg15&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
 ### 📫 Como me Encontrar
 
 - **LinkedIn:** [**Victor Manuel**](https://br.linkedin.com/in/victor-tt)

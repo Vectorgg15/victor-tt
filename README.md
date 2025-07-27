@@ -45,7 +45,7 @@ Atualmente, estou focado em aprimorar minhas habilidades e aplicar meu conhecime
       <h3 align="center">Bingo Card Generator 2.0 (BCG)</h3>
       <br />
       <a href="https://github.com/Vectorgg15/BCG_2.0">
-        <img src="https://github.com/Vectorgg15/BCG_2.0/raw/main/Captura_de_tela_01.png" width="100%">
+        <img src="https://github.com/Vectorgg15/BCG_2.0/blob/main/assets/Screenshot_BCG_2.0.png" width="100%">
       </a>
       <p align="center">
         <br>

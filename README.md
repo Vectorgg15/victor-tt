@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Victor Manuel!
 
 <p align="left">
-  <a href="https://github.com/Vectorgg15">
+  <a href="https://github.com/victordatt">
     <img src="https://img.shields.io/github/followers/Vectorgg15?label=Followers&style=social" />
   </a>
   <a href="https://br.linkedin.com/in/victor-tt">
@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vectorgg15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=victordatt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vectorgg15&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordatt&layout=compact&theme=dracula"/>
   </a>
 </p>
 

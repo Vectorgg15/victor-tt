@@ -84,8 +84,3 @@ Atualmente, estou focado em aprimorar minhas habilidades e aplicar meu conhecime
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📫 Como me Encontrar
-
-- **LinkedIn:** [**Victor Manuel**](https://br.linkedin.com/in/victor-tt)
-- **E-mail:** victormcspl0y@gmail.com

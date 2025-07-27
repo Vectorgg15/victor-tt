@@ -21,7 +21,7 @@ Atualmente, estou focado em aprimorar minhas habilidades e aplicar meu conhecime
 
 ---
 
-### 🚀 Meus Principais Projetos Pessoais
+### 🚀 Projetos Pessoais
 
 <table>
   <tr>

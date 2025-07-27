@@ -7,6 +7,9 @@
   <a href="https://br.linkedin.com/in/victor-tt">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:victormcspl0y@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 *Técnico em Informática e graduando em Análise e Desenvolvimento de Sistemas pelo IFCE.*

@@ -14,6 +14,15 @@
 
 *Técnico em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFCE.*
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vectorgg15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vectorgg15&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -82,19 +91,6 @@ Atualmente, estou focado em aprimorar minhas habilidades e aplicar meu conhecime
 ![Canva](https://img.shields.io/badge/Canva-2596BE?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Vectorgg15">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vectorgg15&show_icons=true&theme=tokyonight&line_height=27" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Vectorgg15">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vectorgg15&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
